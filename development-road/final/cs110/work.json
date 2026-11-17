@@ -54,11 +54,11 @@
       }
     },
     "dailyDraft": {
-      "meeting": "",
-      "worked": "",
-      "next": "",
-      "blocker": "",
-      "evidence": ""
+      "meeting": "CS110-2026-11-17",
+      "worked": "Today I created the GitHub repository for our project and started organizing the work. Our team brainstormed game ideas and drew different concepts on the whiteboard. We discussed possible gameplay features, the direction of the project, and how we could develop our ideas into a game.",
+      "next": "Next, I plan to continue developing the game concept, organize our ideas, decide on the main gameplay features, and start preparing the project for development in Unity using C#.",
+      "blocker": "No major blockers right now. I may need help organizing the project and figuring out how to turn our ideas into working game features.",
+      "evidence": "https://github.com/ChrisGuillen07/FinalPersonalRepo/tree/main/FinalPersonalFolder"
     },
     "requirements": [
       {
@@ -117,7 +117,17 @@
       }
     ],
     "tasks": [],
-    "dailyNotes": []
+    "dailyNotes": [
+      {
+        "date": "2026-11-17",
+        "revision": 1,
+        "worked": "Today I created the GitHub repository for our project and started organizing the work. Our team brainstormed game ideas and drew different concepts on the whiteboard. We discussed possible gameplay features, the direction of the project, and how we could develop our ideas into a game.",
+        "next": "Next, I plan to continue developing the game concept, organize our ideas, decide on the main gameplay features, and start preparing the project for development in Unity using C#.",
+        "blocker": "No major blockers right now. I may need help organizing the project and figuring out how to turn our ideas into working game features.",
+        "evidence": "https://github.com/ChrisGuillen07/FinalPersonalRepo/tree/main/FinalPersonalFolder",
+        "tasks": []
+      }
+    ]
   },
   "team": {
     "name": "Human Systems Check",
