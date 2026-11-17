@@ -37,7 +37,14 @@
       "personal": "",
       "questions": ""
     },
-    "evidence": {},
+    "evidence": {
+      "core": {
+        "result": "S",
+        "test": "",
+        "link": "",
+        "done": true
+      }
+    },
     "tasks": [],
     "dailyNotes": []
   }
