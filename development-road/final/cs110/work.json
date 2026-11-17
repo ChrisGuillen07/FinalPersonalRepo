@@ -10,7 +10,8 @@
     "selected": [
       "save",
       "branch",
-      "settings"
+      "settings",
+      "external"
     ],
     "engine": "Unity / C#",
     "environmentTest": true,
@@ -42,9 +43,9 @@
     },
     "evidence": {
       "core": {
-        "result": "",
-        "test": "",
-        "link": "",
+        "result": "The game concept and design have been planned. The idea is a bounty hunter game where players accept contracts, track targets, complete missions, and earn rewards. The gameplay features are planned but have not been implemented in Unity yet.",
+        "test": "Input: Review the planned bounty hunting mission system.\nExpected: Players will be able to select contracts, track targets, and complete missions.\nObserved: These features are currently part of the design and have not been tested in a working game.",
+        "link": "Game concept notes, design documents, and project planning materials. Unity implementation and tested source code are not completed yet.",
         "done": true
       }
     },
@@ -79,6 +80,12 @@
         "code": "R04",
         "title": "Settings that persist",
         "evidence": "Provide useful settings, validate changes, save them and demonstrate restoration. This must extend beyond the same progress data."
+      },
+      {
+        "id": "external",
+        "code": "R13",
+        "title": "External playtest and revision",
+        "evidence": "Use consented feedback from at least three testers; document problems, fixes and retest evidence."
       }
     ],
     "tasks": [],
@@ -104,7 +111,15 @@
       },
       {
         "name": "Caleb Jackson",
-        "role": "Team member"
+        "role": "Researcher"
+      },
+      {
+        "name": "Nick 3",
+        "role": "Developer"
+      },
+      {
+        "name": "George Arbache",
+        "role": "Idea Pitcher"
       }
     ]
   },
